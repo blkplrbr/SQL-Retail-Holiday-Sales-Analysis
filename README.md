@@ -45,20 +45,26 @@ This project answers 10 key business questions, demonstrating proficiency in var
    
     <img width="433" height="282" alt="image" src="https://github.com/user-attachments/assets/11d87aac-9c53-46a9-a3a2-1b90646026cd" />
     
-6.  **Do Deeper Discounts Bring More Returns?:** 
+5.  **Do Deeper Discounts Bring More Returns?:**
+    
    <img width="384" height="139" alt="image" src="https://github.com/user-attachments/assets/0d71d9f7-3293-488f-8a89-b8b58351e7e9" />
 
-7.  **Channel Mix on Each Event Day:** 
+6.  **Channel Mix on Each Event Day:**
+
    <img width="455" height="203" alt="image" src="https://github.com/user-attachments/assets/0899bda5-887a-4e78-8893-0aac301e093e" />
 
-8.  **The Ten Products with the Most Revenue:**
+7.  **The Ten Products with the Most Revenue:**
+   
     <img width="273" height="281" alt="image" src="https://github.com/user-attachments/assets/a523750f-715b-457d-8d44-6dffff05b87c" />
     
-9.  **Buy Now, Pay Later (BNPL) Usage & Return Rate:** 
+8.  **Buy Now, Pay Later (BNPL) Usage & Return Rate:**
+   
     <img width="327" height="64" alt="image" src="https://github.com/user-attachments/assets/c3d637ee-d212-4b0f-a4c9-eb0a3fcd8faf" />
 
-10.  **Delivery Days by Fulfillment:** 
+9.  **Delivery Days by Fulfillment:**
+   
     <img width="283" height="118" alt="image" src="https://github.com/user-attachments/assets/75e660c2-ad35-470a-a911-d5025656a364" />
 
-11. **Coupon Usage & Savings by Event Day:** 
+10. **Coupon Usage & Savings by Event Day:**
+    
     <img width="437" height="201" alt="image" src="https://github.com/user-attachments/assets/33f4ba01-8573-4d0f-99c2-0d7832f78750" />
