@@ -72,11 +72,11 @@ This project answers 10 key business questions, demonstrating proficiency in var
 
  ## Key Business Insights & Analysis
  1. Event Day & Year-over-Year Momentum
-   * Black Friday is the clear wave: It pulls the highest volume (106,314 purchases) and top revenue ($17,506,703.83), paired with the steepest average discount (38.42%), followed by Cyber Monday ($14,493,895.30, 33.44% avg discount) and Black Friday weekend ($13,021,902.46, 25.92% avg discount).
+      * Black Friday is the clear wave: It pulls the highest volume (106,314 purchases) and top revenue ($17,506,703.83), paired with the steepest average discount (38.42%), followed by Cyber Monday ($14,493,895.30, 33.44% avg discount) and Black Friday weekend ($13,021,902.46, 25.92% avg discount).
 
-   * Early November punches above its discount weight: It ranks 4th in revenue ($12,138,206.84) despite a relatively low 10.94% average discount, meaning buyers are already shopping early without needing massive markdowns.
+      * Early November punches above its discount weight: It ranks 4th in revenue ($12,138,206.84) despite a relatively low 10.94% average discount, meaning buyers are already shopping early without needing massive markdowns.
 
-   * Steady YoY growth: Total revenue climbed 11.55% in 2024 ($26,373,285.30 vs. $23,641,996.74 in 2023) and 11.44% in 2025 ($29,389,579.67), showing consistent annual expansion rather than a one-off spike.
+      * Steady YoY growth: Total revenue climbed 11.55% in 2024 ($26,373,285.30 vs. $23,641,996.74 in 2023) and 11.44% in 2025 ($29,389,579.67), showing consistent annual expansion rather than a one-off spike.
 
 2. Peak Traffic Windows & Timing
    * Morning rush on Black Friday vs. evening everywhere else: Black Friday peaks at hour 7 (7,314 orders), while almost every other window—Cyber Monday (5,475), Black Friday weekend (5,246), Early November (4,041), Cyber Week (3,440), and Thanksgiving week (3,066)—peaks at hour 19 (7 PM), and Thanksgiving peaks at hour 20 (8 PM, 3,507 orders).
