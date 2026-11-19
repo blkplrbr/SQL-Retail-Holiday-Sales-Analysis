@@ -39,13 +39,14 @@ This project answers 10 key business questions, demonstrating proficiency in var
    <img width="468" height="103" alt="image" src="https://github.com/user-attachments/assets/f252d522-7543-4f06-8b66-3b9988c4873a" />
 
 3.  **Busiest Hour of Thanksgiving, Black Friday, and Cyber Monday:**
+   
      <img width="354" height="198" alt="image" src="https://github.com/user-attachments/assets/ab2b80e2-e1fe-4bd6-92ea-02a1d80a7a55" />
 
-4.  **Return Rate by Product Category:**
+5.  **Return Rate by Product Category:**
    
     <img width="433" height="282" alt="image" src="https://github.com/user-attachments/assets/11d87aac-9c53-46a9-a3a2-1b90646026cd" />
     
-5.  **Do Deeper Discounts Bring More Returns?:**
+6.  **Do Deeper Discounts Bring More Returns?:**
     
    <img width="384" height="139" alt="image" src="https://github.com/user-attachments/assets/0d71d9f7-3293-488f-8a89-b8b58351e7e9" />
 
