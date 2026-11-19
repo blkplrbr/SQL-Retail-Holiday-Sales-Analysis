@@ -69,3 +69,5 @@ This project answers 10 key business questions, demonstrating proficiency in var
 10. **Coupon Usage & Savings by Event Day:**
     
     <img width="437" height="201" alt="image" src="https://github.com/user-attachments/assets/33f4ba01-8573-4d0f-99c2-0d7832f78750" />
+
+    
