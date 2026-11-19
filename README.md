@@ -72,25 +72,25 @@ This project answers 10 key business questions, demonstrating proficiency in var
 
  ## Key Business Insights & Analysis
  1. Event Day & Year-over-Year Momentum
-* Black Friday is the clear wave: It pulls the highest volume (106,314 purchases) and top revenue ($17,506,703.83), paired with the steepest average discount (38.42%), followed by Cyber Monday ($14,493,895.30, 33.44% avg discount) and Black Friday weekend ($13,021,902.46, 25.92% avg discount).
+   * Black Friday is the clear wave: It pulls the highest volume (106,314 purchases) and top revenue ($17,506,703.83), paired with the steepest average discount (38.42%), followed by Cyber Monday ($14,493,895.30, 33.44% avg discount) and Black Friday weekend ($13,021,902.46, 25.92% avg discount).
 
-* Early November punches above its discount weight: It ranks 4th in revenue ($12,138,206.84) despite a relatively low 10.94% average discount, meaning buyers are already shopping early without needing massive markdowns.
+   * Early November punches above its discount weight: It ranks 4th in revenue ($12,138,206.84) despite a relatively low 10.94% average discount, meaning buyers are already shopping early without needing massive markdowns.
 
-* Steady YoY growth: Total revenue climbed 11.55% in 2024 ($26,373,285.30 vs. $23,641,996.74 in 2023) and 11.44% in 2025 ($29,389,579.67), showing consistent annual expansion rather than a one-off spike.
+   * Steady YoY growth: Total revenue climbed 11.55% in 2024 ($26,373,285.30 vs. $23,641,996.74 in 2023) and 11.44% in 2025 ($29,389,579.67), showing consistent annual expansion rather than a one-off spike.
 
- 2. Peak Traffic Windows & Timing
-* Morning rush on Black Friday vs. evening everywhere else: Black Friday peaks at hour 7 (7,314 orders), while almost every other window—Cyber Monday (5,475), Black Friday weekend (5,246), Early November (4,041), Cyber Week (3,440), and Thanksgiving week (3,066)—peaks at hour 19 (7 PM), and Thanksgiving peaks at hour 20 (8 PM, 3,507 orders).
+2. Peak Traffic Windows & Timing
+   * Morning rush on Black Friday vs. evening everywhere else: Black Friday peaks at hour 7 (7,314 orders), while almost every other window—Cyber Monday (5,475), Black Friday weekend (5,246), Early November (4,041), Cyber Week (3,440), and Thanksgiving week (3,066)—peaks at hour 19 (7 PM), and Thanksgiving peaks at hour 20 (8 PM, 3,507 orders).
 
-* Takeaway for campaigns: Schedule early-bird/doorbuster pushes right before 7 AM on Black Friday, and lean into evening promos around 7–8 PM across the rest of the holiday stretch.
+   * Takeaway for campaigns: Schedule early-bird/doorbuster pushes right before 7 AM on Black Friday, and lean into evening promos around 7–8 PM across the rest of the holiday stretch.
 
-  3. Returns, Discounts & High-Ticket Products
-* Apparel leads category returns by a wide margin: Apparel sits at a 41.27% return rate (30,111 returns out of 72,954 orders), ahead of Jewelry (28.09%) and Electronics (18.65%), whereas Books (9.30%) and Beauty (11.52%) have the lowest return rates.
+3. Returns, Discounts & High-Ticket Products
+   * Apparel leads category returns by a wide margin: Apparel sits at a 41.27% return rate (30,111 returns out of 72,954 orders), ahead of Jewelry (28.09%) and Electronics (18.65%), whereas Books (9.30%) and Beauty (11.52%) have the lowest return rates.
 
-* Deeper discounts track with higher return rates: Orders with 50%+ Off see a 42.75% return rate (5,814 of 13,599), compared to 22.96% for 21–50% Off, 14.56% for 1–20% Off, and 8.57% for No Discount—classic sign of impulse/size-guess buying on steep promos.
+   * Deeper discounts track with higher return rates: Orders with 50%+ Off see a 42.75% return rate (5,814 of 13,599), compared to 22.96% for 21–50% Off, 14.56% for 1–20% Off, and 8.57% for No Discount—classic sign of impulse/size-guess buying on steep promos.
 
-* Laptops and 4K Smart TVs drive top product revenue: The top 8 revenue products are all Laptops and 4K Smart TVs (led by Orbitek Laptop at $3,468,178.19 and Voltrix Laptop at $3,385,522.94), followed by Lumora Tablet and Voltrix Tablet.
+   * Laptops and 4K Smart TVs drive top product revenue: The top 8 revenue products are all Laptops and 4K Smart TVs (led by Orbitek Laptop at $3,468,178.19 and Voltrix Laptop at $3,385,522.94), followed by Lumora Tablet and Voltrix Tablet.
 
 4. Fulfillment, Coupons & Data Watchouts
-* Fast fulfillment vs. standard shipping lag: Pick up in store averages 0.5 days, Express shipping 1.5 days, and Free 2-day shipping 2.5 days, while Standard shipping stretches to 6.37 days.
+   * Fast fulfillment vs. standard shipping lag: Pick up in store averages 0.5 days, Express shipping 1.5 days, and Free 2-day shipping 2.5 days, while Standard shipping stretches to 6.37 days.
 
-* Coupons concentrate on peak days: Black Friday (27,681 orders, $469,759.48 savings) and Cyber Monday (21,236 orders, $391,327.72 savings) carry the heaviest coupon redemption and savings totals.
+   * Coupons concentrate on peak days: Black Friday (27,681 orders, $469,759.48 savings) and Cyber Monday (21,236 orders, $391,327.72 savings) carry the heaviest coupon redemption and savings totals.
