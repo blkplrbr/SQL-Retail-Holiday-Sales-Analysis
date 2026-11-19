@@ -34,6 +34,7 @@ This project answers 10 key business questions, demonstrating proficiency in var
 ## Results
 1.  **Purchases, Revenue, and Average Discount by Event Day:**
    <img width="537" height="206" alt="image" src="https://github.com/user-attachments/assets/b7332bfb-ec5a-4693-9bda-36c0783c3ed2" />
+   
 2.  **Growth from Year to Year:** 
    <img width="468" height="103" alt="image" src="https://github.com/user-attachments/assets/f252d522-7543-4f06-8b66-3b9988c4873a" />
 
